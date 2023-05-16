@@ -1,0 +1,9 @@
+Green
+Red
+Purple
+Blue
+Yellow
+Orange
+Azure
+Turquoise
+Grey
