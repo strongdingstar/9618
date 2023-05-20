@@ -7,6 +7,6 @@ If my codes can help you to gain A or A*
 
 It will be a fantistic thing!
 
-If you think there are bugs/other issues, or you have any advice, please do not hesitate to connect me!
+If you think there are bugs/other issues, or you have any advice, please do not hesitate to reflect them!
 
 My email address is: strongdingstar@hotmail.com
