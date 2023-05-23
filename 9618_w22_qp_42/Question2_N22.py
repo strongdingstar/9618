@@ -24,6 +24,7 @@ try:
     File = open("Characters.txt", "r")
     for i in range(10):  # in python, index 10 cannot be reached using "for" iteration
         CharacterArray.append(Character(File.readline().strip(), int(File.readline()), int(File.readline())))
+    File.close()
 except IOError:
     print("FILE NOT FOUND")
 Exists = False  # Exists as boolean(bool)
