@@ -18,7 +18,7 @@ class Character:
         self.__YCoordinate += YChange
 
 
-# Please note that in python, when using "for i in range(10)", the iteration variable i
+# Please note that in python, when using "for i in range(10)", the iteration variable i CANNOT reach 10, it has max value of 9
 CharacterArray = []  # CharacterArray as array[0:9] of type Character, it has 10 elements
 try:
     File = open("Characters.txt", "r")
