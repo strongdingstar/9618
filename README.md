@@ -11,25 +11,25 @@ This repository offers unofficial Python solution code to  Paper 4 of the [Cambr
 
 ## FAQs
 
-#### _Why some parts of the code differ from the official mark scheme?_
+### _Why some parts of the code differ from the official mark scheme?_
 
 My code might uses a another approach, which is also considered correct. Mark schemes from different exam seasons give distinct example codes to the same question, so it is hard to find a "best" approach.
 
 If this is not the case, please [raise an issue](https://github.com/strongdingstar/9618/issues) and I will fix it.
 
-#### _What does `9618_s21_qp_41=42=43` mean? What is the `=` sign for?_
+### _What does `9618_s21_qp_41=42=43` mean? What is the `=` sign for?_
 
 Because paper 41, 42, and 43 of that exam season are identical. I use `=` signs in folder names to avoid redundancy.
 
-#### _When running the code in vscode, `no such file or directory` error raises?_
+### _When running the code in vscode, `no such file or directory` error raises?_
 
 Please look for `python.terminal.executeInFileDir` in settings and change its value to `true`.
 
-#### _Where are the question papers and supporting files?_
+### _Where are the question papers and supporting files?_
 
 You could find them [here](https://papers.gceguide.net/A%20Levels/Computer%20Science%20(for%20first%20examination%20in%202021)%20(9618)/).
 
-#### _How do I report a bug or mistake?_
+### _How do I report a bug or mistake?_
 
 Please [raise an issue](https://github.com/strongdingstar/9618/issues).
 
