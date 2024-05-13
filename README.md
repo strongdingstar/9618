@@ -4,7 +4,7 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue)](https://www.gnu.org/licenses/gpl-3.0.en.html)
 [![Python: 3.0+](https://img.shields.io/badge/python-3.0+-blue)](https://www.python.org/downloads/)
-[![Version](https://img.shields.io/badge/version-alpha-brightgreen)](https://github.com/strongdingstar/9618/releases/latest)
+[![Version](https://img.shields.io/badge/version-1.0-brightgreen)](https://github.com/strongdingstar/9618/releases/latest)
 [![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/strongdingstar/9618?color=yellow)](https://github.com/strongdingstar/9618/issues)
 
 This repository offers unofficial Python solution code to  Paper 4 of the [Cambridge International AS & A Level Computer Science (9618)](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-computer-science-9618/) exam. It corrects obvious mistakes in mark scheme, e.g. incorrect syntax and undefined variables. All code and input data file names strictly follow the question paper instructions.
@@ -27,7 +27,7 @@ Please look for `python.terminal.executeInFileDir` in settings and change its va
 
 ### _Where are the question papers and supporting files?_
 
-You could find them [here](https://papers.gceguide.net/A%20Levels/Computer%20Science%20(for%20first%20examination%20in%202021)%20(9618)/).
+You can find them from [pastpapers.co](https://pastpapers.co/cie/?dir=A-Level/Computer%20Science%20%28for%20first%20examination%20in%202021%29%20%289618%29) or [cie.fraft.org](https://cie.fraft.org/).
 
 ### _How do I report a bug or mistake?_
 
