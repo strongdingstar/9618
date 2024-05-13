@@ -4,7 +4,7 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue)](https://www.gnu.org/licenses/gpl-3.0.en.html)
 [![Python: 3.0+](https://img.shields.io/badge/python-3.0+-blue)](https://www.python.org/downloads/)
-[![Version](https://img.shields.io/badge/version-1.0-brightgreen)](https://github.com/strongdingstar/9618/releases/latest)
+[![Version](https://img.shields.io/badge/version-1.0.0-brightgreen)](https://github.com/strongdingstar/9618/releases/latest)
 [![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/strongdingstar/9618?color=yellow)](https://github.com/strongdingstar/9618/issues)
 
 This repository offers unofficial Python solution code to  Paper 4 of the [Cambridge International AS & A Level Computer Science (9618)](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-computer-science-9618/) exam. It corrects obvious mistakes in mark scheme, e.g. incorrect syntax and undefined variables. All code and input data file names strictly follow the question paper instructions.
